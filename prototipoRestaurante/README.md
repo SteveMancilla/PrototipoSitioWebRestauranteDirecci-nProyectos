@@ -1,54 +1,67 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+# 📌 Proyecto: Sistema Web para Tradición Wanka
 
-  <br />
-  <br />
+Este repositorio contiene el desarrollo del sistema web para **Tradición Wanka**, diseñado para optimizar la gestión de pedidos en línea y la integración con un centro de llamadas. Este proyecto fue desarrollado siguiendo las mejores prácticas de **Dirección de Proyectos** bajo el estándar PMI y con un enfoque ágil utilizando **Jira** para la gestión adaptativa.
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+---
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+## 🛠️ Funcionalidades Principales
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+- **Gestión de Pedidos en Línea**: Plataforma intuitiva que permite a los clientes realizar pedidos desde cualquier dispositivo.
+- **Integración con Call Center**: Sincronización eficiente para gestionar pedidos realizados a través de llamadas.
+- **Interfaz Amigable (UI/UX)**: Diseño centrado en la experiencia del usuario.
+- **Escalabilidad**: Preparado para futuras integraciones y crecimiento del negocio.
 
-</div>
+---
 
-<br />
+## 🚀 Tecnologías Utilizadas
 
-### Demo Screeshots
+- **Frontend**: React.js, HTML5, CSS3, Bootstrap
+- **Backend**: Node.js, Express.js
+- **Base de Datos**: MongoDB
+- **Herramientas de Gestión**: Jira, Git, GitHub
+- **Otros**: API RESTful, Docker (para contenedores)
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+---
 
-### Prerequisites
+## 📋 Metodología de Trabajo
 
-Before you begin, ensure you have met the following requirements:
+El proyecto fue desarrollado bajo un enfoque **ágil**, utilizando sprints organizados en **Jira**:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+1. **Definición de Épicas y Tareas**.
+2. **Gestión de Incertidumbres y Riesgos** mediante una matriz de probabilidad e impacto.
+3. **Seguimiento continuo** para asegurar la entrega de valor.
 
-### Run Locally
+---
 
-To run **Grilli** locally, run this command on your git bash:
+## 🔍 Conclusiones
 
-Linux and macOS:
+- El sistema optimiza procesos internos y mejora la experiencia del cliente.
+- El enfoque ágil permitió adaptarnos rápidamente a los cambios.
+- La plataforma es escalable, ofreciendo oportunidades para futuras expansiones.
 
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
+---
 
-Windows:
+## 🧩 Recomendaciones
 
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
+1. Capacitar al personal en el uso de la plataforma.
+2. Implementar un plan de mantenimiento y actualización del sistema.
+3. Monitorear métricas clave para la mejora continua.
+4. Ampliar la estrategia digital con campañas de marketing.
+5. Planificar integraciones futuras, como sistemas de fidelización.
 
-### Contact
+---
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+## 📂 Estructura del Repositorio
 
-### License
+```plaintext
+├── src
+│   ├── components
+│   ├── pages
+│   ├── services
+│   └── styles
+├── public
+├── tests
+├── Dockerfile
+├── package.json
+└── README.md
 
-[MIT](https://choosealicense.com/licenses/mit/)
